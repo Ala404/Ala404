@@ -51,8 +51,8 @@
 <details>
   <summary><h4> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/projects.gif" width="29"/> Projects</h4></summary>
 
-  <a href="https://github.com/Ala404/InternshipManamgment">Internship manamgment</a>
-  <span><img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></span>
+  <a href="https://github.com/Ala404/InternshipManagment">Internship manamgment</a>
+  <span><img src="https://img.shields.io/badge/Vuejs%2343853D.svg?style=for-the-badge&logo=vuejs&logoColor=white"> <img src="https://img.shields.io/badge/Laravel%234ea94b.svg?style=for-the-badge&logo=laravel&logoColor=white"></span>
   - Implemented features to notify users about new opportunities.
   - Achieved a user base of X, surpassing initial projections.
 </details>
