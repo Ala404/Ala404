@@ -9,7 +9,7 @@
   </a>
 </h2>
 <div align="center">
- <img alt="GIF" src="https://media4.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=6c09b952ufa3xxbbm0mpuadm2zaik3wjp4m9luz2ly0lyz8d&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" />
+ <img alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExem5zN3J2ZHdkZnl3M3U4dmVuZDRob2RvaDRzdjMwczg5amJ2c3NlMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Awrr0bMfjknuM/giphy.webp" />
 </div>
  <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> <h2>About Me</h2>
   I am a passionate Fullstack Developer with a strong foundation in both frontend and backend technologies. A versatile developer specializing in Vuejs, Nestjs, and a little bit of Django, with a passion for continuous learning. My expertise lies in integration, improving user interfaces, and enhancing overall user experiences. I thrive on solving challenging problems and creating innovative solutions.
@@ -170,11 +170,11 @@
   </div>
 </details>
 
-<!--<div align="center">
-  ##<picture>
-    ##<source media="(prefers-color-scheme: dark)" srcset="https://github.com/Ala404/Ala404/blob/output/github-contribution-grid-snake-dark.svg">
-    ##<source media="(prefers-color-scheme: light)" srcset="https://github.com/Ala404/Ala404/blob/output/github-contribution-grid-snake.svg">
-    ##<img alt="github contribution grid snake animation" src="https://github.com/Ala404/Ala404/blob/output/github-contribution-grid-snake.svg">
-  ##</picture>
-##</div>-->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Ala404/Ala404/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Ala404/Ala404/blob/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/Ala404/Ala404/blob/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
