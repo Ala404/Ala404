@@ -36,15 +36,24 @@
 
 <details>
   <summary><h4> <img align="center" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="29"/> Coding Handles</h4></summary>
-  [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/u/Ala404/)
-  [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Ala404)
-  [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/[your-handle]/practice)
+  !LeetCode(https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)(https://www.leetcode.com/u/Ala404/)
+  !Codeforces(https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)(https://codeforces.com/profile/Ala404)
+  !GeeksForGeeks(https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)(https://auth.geeksforgeeks.org/user/[your-handle]/practice)
 </details>
 
 <details>
   <summary><h4> <img align="center" src="https://github.com/Ala404/Ala404/blob/main/icons/techstack.gif" width="29"/> Tech Stack</h4></summary>
-  ![HTML](https://img.shields.io/badge/html-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-  ![Vuejs](https://img.shields.io/badge/vuejs-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+  !HTML(https://img.shields.io/badge/html-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+  !JavaScript(https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+  !Vuejs(https://img.shields.io/badge/vuejs-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+</details>
+
+<details>
+  <summary><h4> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/projects.gif" width="29"/> Projects</h4></summary>
+
+  <a href="https://github.com/Ala404/InternshipManamgment">Internship manamgment</a>
+  <span><img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></span>
+  - Implemented features to notify users about new opportunities.
+  - Achieved a user base of X, surpassing initial projections.
 </details>
 
