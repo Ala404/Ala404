@@ -144,11 +144,8 @@
   <a href="https://github.com/Ala404">
     <img align="center" src="https://github.com/Ala404/Ala404/blob/main/icons/Github.gif" width="70"/>
   </a>
-  <a href="https://linkedin.com/in/parthjohri07">
+  <a href="https://linkedin.com/in/ala-eddine-kezzouz-546a19218/">
     <img align="center" src="https://github.com/Ala404/Ala404/blob/main/icons/Linkedin.gif" width="70"/>
-  </a>
-  <a href="https://www.quora.com/profile/Parth-Johri-6">
-    <img align="center" src="https://github.com/Ala404/Ala404/blob/main/icons/Quora.gif" width="70"/>
   </a>
 </div>
 
@@ -159,37 +156,10 @@
 
 <p> 
  <i>You can reach out to me via</i> 
-&nbsp;<a href="mailto:contact.parthjohri@gmail.com">
+&nbsp;<a href="mailto:aladinkezzouz02@gmail.com">
      <img align="center" src="https://github.com/Ala404/Ala404/blob/main/icons/Gmail.gif"  width="100"/>
  </a>
 </p>
-
-### ✅ Merged PRs
-<!--Start Count Merged PRs-->
-  <span><img src="https://img.shields.io/badge/Total_Merged_PRs-30-1877F2?style=for-the-badge"></span>
-<!--Finish Count Merged PRs-->
-
-<!--Start Merged PRs-->
-1. 🥳 Merged PR [379](https://github.com/pymc-labs/CausalPy/pull/379) - [pymc-labs/CausalPy](https://github.com/pymc-labs/CausalPy)
-2. 🎉 Merged PR [876](https://github.com/glasskube/glasskube/pull/876) - [glasskube/glasskube](https://github.com/glasskube/glasskube)
-3. 🎊 Merged PR [50](https://github.com/pinacai/PINAC_Workspace/pull/50) - [pinacai/PINAC_Workspace](https://github.com/pinacai/PINAC_Workspace)
-4. 🥂 Merged PR [2](https://github.com/ManasviGaur/Vegetable-freshness-detection/pull/2) - [ManasviGaur/Vegetable-freshness-detection](https://github.com/ManasviGaur/Vegetable-freshness-detection)
-5. 🙌🏼 Merged PR [1](https://github.com/parth782/Movie-Recommendation/pull/1) - [parth782/Movie-Recommendation](https://github.com/parth782/Movie-Recommendation)
-<!--Finish Merged PRs-->
-
-### <img align="center" src="https://github.com/Ala404/Ala404/blob/main/icons/activity.gif"  width="25"/> Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#128](https://github.com/newwwie/newwwie.com/pull/128#issuecomment-2258763293) in [newwwie/newwwie.com](https://github.com/newwwie/newwwie.com)
-2. 💪 Opened PR [#128](https://github.com/newwwie/newwwie.com/pull/128) in [newwwie/newwwie.com](https://github.com/newwwie/newwwie.com)
-3. 🗣 Commented on [#126](https://github.com/newwwie/newwwie.com/issues/126#issuecomment-2242632304) in [newwwie/newwwie.com](https://github.com/newwwie/newwwie.com)
-4. 🗣 Commented on [#22](https://github.com/BCG-X-Official/artkit/issues/22#issuecomment-2212357144) in [BCG-X-Official/artkit](https://github.com/BCG-X-Official/artkit)
-5. 🗣 Commented on [#22](https://github.com/BCG-X-Official/artkit/issues/22#issuecomment-2211005650) in [BCG-X-Official/artkit](https://github.com/BCG-X-Official/artkit)
-<!--END_SECTION:activity-->
-
-
-
-## <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='37' /> Random Joke 
 
 <details>
   <summary>Click to see a random joke</summary>
@@ -200,11 +170,11 @@
   </div>
 </details>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Ala404/Ala404/blob/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Ala404/Ala404/blob/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://github.com/Ala404/Ala404/blob/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+<!--<div align="center">
+  ##<picture>
+    ##<source media="(prefers-color-scheme: dark)" srcset="https://github.com/Ala404/Ala404/blob/output/github-contribution-grid-snake-dark.svg">
+    ##<source media="(prefers-color-scheme: light)" srcset="https://github.com/Ala404/Ala404/blob/output/github-contribution-grid-snake.svg">
+    ##<img alt="github contribution grid snake animation" src="https://github.com/Ala404/Ala404/blob/output/github-contribution-grid-snake.svg">
+  ##</picture>
+##</div>-->
 
