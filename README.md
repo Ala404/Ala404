@@ -15,17 +15,17 @@
   I am a passionate Fullstack Developer with a strong foundation in both frontend and backend technologies. A versatile developer specializing in Vuejs, Nestjs, and a little bit of Django, with a passion for continuous learning. My expertise lies in integration, improving user interfaces, and enhancing overall user experiences. I thrive on solving challenging problems and creating innovative solutions.
   
 <details>
- <summary><h2> <img align="center" src="https://github.com/Ala404/Ala404/blob/readME/icons/about.png" width="37" /> Resume</h2></summary>
+ <summary><h2> <img align="center" src="https://github.com/Ala404/Ala404/blob/main/icons/about.png" width="37" /> Resume</h2></summary>
  
  <details>
-  <summary><h4> <img align="center" src="https://github.com/Ala404/Ala404/blob/readME/icons/academics.gif"  width="29"/> Academics</h2></summary>
+  <summary><h4> <img align="center" src="https://github.com/Ala404/Ala404/blob/main/icons/academics.gif"  width="29"/> Academics</h2></summary>
 
   <span><img src="https://img.shields.io/badge/BTECH-DTU_ECE'24-1877F2?style=for-the-badge"></span>
   <span><img src="https://img.shields.io/badge/GPA-9.45/10.0-EFEEE9?style=for-the-badge"></span>
   
 </details>
  <details>
-  <summary><h4> <img align="center" src="https://github.com/Ala404/Ala404/blob/readME/icons/experience.gif"  width="29"/> Experience</h2></summary>
+  <summary><h4> <img align="center" src="https://github.com/Ala404/Ala404/blob/main/icons/experience.gif"  width="29"/> Experience</h2></summary>
 
 - **Frontend Developer Intern** at Magpie XYZ (Remote) | Jan 2024 - May 2024
   - Integrated Cakepie, Magpie, Eigenpie pages, facilitating deposits exceeding $800 million.
@@ -52,7 +52,7 @@
 
 
 <details>
-  <summary><h4> <img align="center" src="https://github.com/Ala404/Ala404/blob/readME/icons/techstack.gif"  width="29"/> Tech Stack</h2></summary>
+  <summary><h4> <img align="center" src="https://github.com/Ala404/Ala404/blob/main/icons/techstack.gif"  width="29"/> Tech Stack</h2></summary>
 
   #### Languages
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -99,7 +99,7 @@
 </details>
 
 <details>
-  <summary><h4> <img align="center" src="https://github.com/Ala404/Ala404/blob/readME/icons/projects.gif"  width="29"/> Projects</h2></summary>
+  <summary><h4> <img align="center" src="https://github.com/Ala404/Ala404/blob/main/icons/projects.gif"  width="29"/> Projects</h2></summary>
 
   #### <a href="https://github.com/Ala404/rm-whatsapp-bot">RMNotices</a>
   <span><img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"> <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></span>  
@@ -139,7 +139,7 @@
 
 
 <details>
-  <summary><h2> <img align="center" src="https://github.com/Ala404/Ala404/blob/readME/icons/stats.gif"  width="32"/> Stats</h2></summary>
+  <summary><h2> <img align="center" src="https://github.com/Ala404/Ala404/blob/main/icons/stats.gif"  width="32"/> Stats</h2></summary>
 
   ### Leetcode
   <div align="center">
@@ -172,25 +172,25 @@
 
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; ">
   <a href="https://github.com/Ala404">
-    <img align="center" src="https://github.com/Ala404/Ala404/blob/readME/icons/Github.gif" width="70"/>
+    <img align="center" src="https://github.com/Ala404/Ala404/blob/main/icons/Github.gif" width="70"/>
   </a>
   <a href="https://linkedin.com/in/parthjohri07">
-    <img align="center" src="https://github.com/Ala404/Ala404/blob/readME/icons/Linkedin.gif" width="70"/>
+    <img align="center" src="https://github.com/Ala404/Ala404/blob/main/icons/Linkedin.gif" width="70"/>
   </a>
   <a href="https://www.quora.com/profile/Parth-Johri-6">
-    <img align="center" src="https://github.com/Ala404/Ala404/blob/readME/icons/Quora.gif" width="70"/>
+    <img align="center" src="https://github.com/Ala404/Ala404/blob/main/icons/Quora.gif" width="70"/>
   </a>
 </div>
 
   
 </details>
 
-## <img align="center" src="https://github.com/Ala404/Ala404/blob/readME/icons/Contact.gif"  width="37"/> Contact Me
+## <img align="center" src="https://github.com/Ala404/Ala404/blob/main/icons/Contact.gif"  width="37"/> Contact Me
 
 <p> 
  <i>You can reach out to me via</i> 
 &nbsp;<a href="mailto:contact.parthjohri@gmail.com">
-     <img align="center" src="https://github.com/Ala404/Ala404/blob/readME/icons/Gmail.gif"  width="100"/>
+     <img align="center" src="https://github.com/Ala404/Ala404/blob/main/icons/Gmail.gif"  width="100"/>
  </a>
 </p>
 
@@ -207,7 +207,7 @@
 5. 🙌🏼 Merged PR [1](https://github.com/parth782/Movie-Recommendation/pull/1) - [parth782/Movie-Recommendation](https://github.com/parth782/Movie-Recommendation)
 <!--Finish Merged PRs-->
 
-### <img align="center" src="https://github.com/Ala404/Ala404/blob/readME/icons/activity.gif"  width="25"/> Recent Activity
+### <img align="center" src="https://github.com/Ala404/Ala404/blob/main/icons/activity.gif"  width="25"/> Recent Activity
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#128](https://github.com/newwwie/newwwie.com/pull/128#issuecomment-2258763293) in [newwwie/newwwie.com](https://github.com/newwwie/newwwie.com)
